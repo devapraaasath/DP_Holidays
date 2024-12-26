@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DP_Holidays/static/css/main.1040b7c7.css",
-    "main.js": "/DP_Holidays/static/js/main.e7624fe9.js",
+    "main.js": "/DP_Holidays/static/js/main.ae369bed.js",
     "static/js/453.e2d748fa.chunk.js": "/DP_Holidays/static/js/453.e2d748fa.chunk.js",
     "static/media/swizer.jpg": "/DP_Holidays/static/media/swizer.95f74961f505b5cfb192.jpg",
     "static/media/Dubai.jpg": "/DP_Holidays/static/media/Dubai.9fa9021a3562040da0c1.jpg",
@@ -18,11 +18,11 @@
     "static/media/bg-travel.avif": "/DP_Holidays/static/media/bg-travel.f0d3ce8960e09e994009.avif",
     "index.html": "/DP_Holidays/index.html",
     "main.1040b7c7.css.map": "/DP_Holidays/static/css/main.1040b7c7.css.map",
-    "main.e7624fe9.js.map": "/DP_Holidays/static/js/main.e7624fe9.js.map",
+    "main.ae369bed.js.map": "/DP_Holidays/static/js/main.ae369bed.js.map",
     "453.e2d748fa.chunk.js.map": "/DP_Holidays/static/js/453.e2d748fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1040b7c7.css",
-    "static/js/main.e7624fe9.js"
+    "static/js/main.ae369bed.js"
   ]
 }
