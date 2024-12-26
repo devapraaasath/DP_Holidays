@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DP_Holidays/static/css/main.01a72d9f.css",
-    "main.js": "/DP_Holidays/static/js/main.f0392bc3.js",
+    "main.css": "/DP_Holidays/static/css/main.1040b7c7.css",
+    "main.js": "/DP_Holidays/static/js/main.e7624fe9.js",
     "static/js/453.e2d748fa.chunk.js": "/DP_Holidays/static/js/453.e2d748fa.chunk.js",
     "static/media/swizer.jpg": "/DP_Holidays/static/media/swizer.95f74961f505b5cfb192.jpg",
     "static/media/Dubai.jpg": "/DP_Holidays/static/media/Dubai.9fa9021a3562040da0c1.jpg",
@@ -11,18 +11,18 @@
     "static/media/Wedding.jpg": "/DP_Holidays/static/media/Wedding.615a4aeeea7a37a359f7.jpg",
     "static/media/cruise.jpg": "/DP_Holidays/static/media/cruise.d540e1ba42bfffdf8d8e.jpg",
     "static/media/adventure.jpg": "/DP_Holidays/static/media/adventure.8ec3733758bad350e760.jpg",
-    "static/media/bg-travel.jpg": "/DP_Holidays/static/media/bg-travel.4f9df096ccac6425232c.jpg",
     "static/media/paris.jpg": "/DP_Holidays/static/media/paris.ca9f79d480166b20c8d5.jpg",
     "static/media/Wedding-banner.jpg": "/DP_Holidays/static/media/Wedding-banner.247c103e3376e8832c96.jpg",
     "static/media/culture.jpg": "/DP_Holidays/static/media/culture.801c612e21dccf97471b.jpg",
     "static/media/holidays.jpg": "/DP_Holidays/static/media/holidays.0e3a86e0254e795d74f0.jpg",
+    "static/media/bg-travel.avif": "/DP_Holidays/static/media/bg-travel.f0d3ce8960e09e994009.avif",
     "index.html": "/DP_Holidays/index.html",
-    "main.01a72d9f.css.map": "/DP_Holidays/static/css/main.01a72d9f.css.map",
-    "main.f0392bc3.js.map": "/DP_Holidays/static/js/main.f0392bc3.js.map",
+    "main.1040b7c7.css.map": "/DP_Holidays/static/css/main.1040b7c7.css.map",
+    "main.e7624fe9.js.map": "/DP_Holidays/static/js/main.e7624fe9.js.map",
     "453.e2d748fa.chunk.js.map": "/DP_Holidays/static/js/453.e2d748fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01a72d9f.css",
-    "static/js/main.f0392bc3.js"
+    "static/css/main.1040b7c7.css",
+    "static/js/main.e7624fe9.js"
   ]
 }
